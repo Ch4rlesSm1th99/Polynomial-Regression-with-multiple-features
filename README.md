@@ -1,1 +1,2 @@
 # Polynomial-Regression-with-multiple-features
+This repository contains a Python script that demonstrates polynomial regression on a 3D surface. The script generates a noisy 3D cosine-sine surface based on a grid of values, and then applies polynomial regression to fit a surface to the noisy data. The degree of the polynomial fit can be adjusted with the parameter `M`. The results, both the original noisy surface and the fitted surface, are visualized using 3D plots.
